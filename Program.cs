@@ -10,6 +10,7 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
+            string name = "ponchik";
             Console.WriteLine("Good Luck to you guys!");
         }
     }
